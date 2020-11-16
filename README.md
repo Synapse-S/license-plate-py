@@ -1,5 +1,3 @@
 # license-plate-py
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/V5hzuDWw8lI?autoplay=1">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V5hzuDWw8lI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
